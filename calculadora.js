@@ -24,4 +24,4 @@ function raiz(a){
   return Math.sqrt(a);
 }
 
-module.exports = { sumar, restar,multiplicar,dividir,raiz };
+module.exports = { sumar,restar,multiplicar,dividir,raiz };
